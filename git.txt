@@ -8,3 +8,5 @@ git log
 git commit -m "message"
 git remote add origin repository_url
 git push -u origin main
+git diff filename
+git diff --staged filename
