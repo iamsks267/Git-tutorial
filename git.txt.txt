@@ -6,3 +6,5 @@ git config --global user.email "you@example.com"
 git config --global user.name "Your Name"
 git log
 git commit -m "message"
+git remote add origin repository_url
+git push -u origin main
